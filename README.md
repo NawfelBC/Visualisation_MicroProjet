@@ -1,5 +1,7 @@
 # Vancouver Crimes Analysis
 
+[DOWNLOAD DATASET HERE](https://github.com/KangboLu/Exploratory-Analysis-of-Vancouver-Crimes/blob/master/clean_crime_records.csv)
+
 In this project, we are analysing Vancouver Crimes to find out where not to park your bicycle to avoid thefts.
 
 <img src="https://user-images.githubusercontent.com/79513906/130362534-d5bf92f7-5ea5-447c-8626-a0f23e254c3b.PNG" width="480" height="450">
